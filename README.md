@@ -6,7 +6,7 @@
 ## Install
 ```
 git clone https://github.com/D4nex/MalapiGo
-cd Malapi-go/src/
+cd MalapiGo/src/
 go build -o malapi-go main.go
 sudo mv malapi-go /usr/bin/
 sudo chmod +x /usr/bin/malapi-go

@@ -5,8 +5,8 @@
 
 ## Install
 ```
-git clone https://github.com/D4nex/MalAPI-go/
-cd MalAPI-go/src/
+git clone https://github.com/D4nex/Malapi-go/
+cd Malapi-go/src/
 go build -o malapi-go main.go
 sudo mv malapi-go /usr/bin/
 sudo chmod +x /usr/bin/malapi-go

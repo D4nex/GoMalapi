@@ -1,12 +1,12 @@
-<h3 align="center">malAPI-go</h3>
+<h3 align="center">MalAPI-go</h3>
 <p align="center">
    A simple module that uses <i>malapi.io</i> to obtain information about <b>WinAPI Calls</b>
 </p>
 
 ## Install
 ```
-git clone https://github.com/D4nex/malapi-go/
-cd malapi-go/src/
+git clone https://github.com/D4nex/MalAPI-go/
+cd MalAPI-go/src/
 go build -o malapi-go main.go
 sudo mv malapi-go /usr/bin/
 sudo chmod +x /usr/bin/malapi-go

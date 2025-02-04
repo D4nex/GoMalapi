@@ -5,8 +5,8 @@
 
 ## Install
 ```
-git clone https://github.com/D4nex/MalapiSearchSyscall
-cd MalapiSearchSyscall/src/
+git clone https://github.com/D4nex/malapisearch.go
+cd malapisearch.go/src/
 go build -o malapi-go main.go
 sudo mv malapi-go /usr/bin/
 sudo chmod +x /usr/bin/malapi-go
